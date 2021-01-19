@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd219ac-b091-4707-8a0f-defb700d85ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <workItem from="1610780768699" duration="8750000" />
       <workItem from="1610862406882" duration="261000" />
       <workItem from="1610879444873" duration="1657000" />
-      <workItem from="1610936020363" duration="13420000" />
+      <workItem from="1610936020363" duration="13750000" />
     </task>
     <task id="LOCAL-00001" summary="master-&gt;构建主分支和主架构-&gt;panjiajie">
       <created>1610790111448</created>
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611058511018</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="master-&gt;升级webpack和webpack-cli至4.0版本-&gt;panjiajie">
+      <created>1611058995865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611058995865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +120,8 @@
     <MESSAGE value="master-&gt;新增eslint-&gt;panjiajie" />
     <MESSAGE value="master-&gt;修改eslint文件-&gt;panjiajie" />
     <MESSAGE value="master-&gt;新增忽略node_modules的add-&gt;panjiajie" />
-    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;新增忽略node_modules的add-&gt;panjiajie" />
+    <MESSAGE value="master-&gt;升级webpack和webpack-cli至4.0版本-&gt;panjiajie" />
+    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;升级webpack和webpack-cli至4.0版本-&gt;panjiajie" />
   </component>
   <component name="WindowStateProjectService">
     <state x="468" y="181" key="#ESLint" timestamp="1611057719637">
@@ -127,10 +132,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="451" y="267" key="#Notifications/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057973859" />
-    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1611058510418">
+    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1611058995528">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611058510418" />
+    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611058995528" />
     <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1611057754412">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -151,10 +156,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057996087" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1611058540005">
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1611059030564">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611058540005" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611059030564" />
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1611058784444">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
