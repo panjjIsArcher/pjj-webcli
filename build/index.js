@@ -61,7 +61,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "0967048fee7d44cb7d09"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "ba5254017971d8a088ad"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -729,7 +729,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: Error: Cannot find module 'p-locate'\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:668:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:591:27)\n    at Module.require (internal/modules/cjs/loader.js:723:19)\n    at require (internal/modules/cjs/helpers.js:14:16)\n    at Object.<anonymous> (/Users/pjj/Documents/plugins/pjj-cli/node_modules/_locate-path@5.0.0@locate-path/index.js:5:17)\n    at Module._compile (internal/modules/cjs/loader.js:816:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)\n    at Module.load (internal/modules/cjs/loader.js:685:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:620:12)\n    at Module.require (internal/modules/cjs/loader.js:723:19)\n    at require (internal/modules/cjs/helpers.js:14:16)\n    at Object.<anonymous> (/Users/pjj/Documents/plugins/pjj-cli/node_modules/_find-up@4.1.0@find-up/index.js:3:20)\n    at Module._compile (internal/modules/cjs/loader.js:816:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)\n    at Module.load (internal/modules/cjs/loader.js:685:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:620:12)\n    at Module.require (internal/modules/cjs/loader.js:723:19)\n    at require (internal/modules/cjs/helpers.js:14:16)\n    at Object.<anonymous> (/Users/pjj/Documents/plugins/pjj-cli/node_modules/_pkg-dir@4.2.0@pkg-dir/index.js:3:16)\n    at Module._compile (internal/modules/cjs/loader.js:816:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)\n    at Module.load (internal/modules/cjs/loader.js:685:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:620:12)\n    at Module.require (internal/modules/cjs/loader.js:723:19)\n    at require (internal/modules/cjs/helpers.js:14:16)\n    at Object.<anonymous> (/Users/pjj/Documents/plugins/pjj-cli/node_modules/_find-cache-dir@3.3.1@find-cache-dir/index.js:5:16)\n    at Module._compile (internal/modules/cjs/loader.js:816:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)\n    at Module.load (internal/modules/cjs/loader.js:685:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:620:12)");
+
 
 /***/ })
 /******/ ]);
