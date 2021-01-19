@@ -1,25 +1,65 @@
 {
     "env": {
         "browser": true,
-        "es2021": true
+        "es2021": true,
+        "es6": true,
+        "node": true,
+        "commonjs": true,
+        "jquery": true
     },
     "extends": [
-        "eslint:recommended",
-        "plugin:react/recommended",
-        "plugin:@typescript-eslint/recommended"
+        "eslint:recommended"
     ],
-    "parser": "@typescript-eslint/parser",
+//    "parser": "@typescript-eslint/parser",
     "parserOptions": {
         "ecmaFeatures": {
-            "jsx": true
+            "jsx": true,
+            "globalReturn": true
         },
         "ecmaVersion": 12,
         "sourceType": "module"
     },
-    "plugins": [
-        "react",
-        "@typescript-eslint"
-    ],
+    "plugins": [],
     "rules": {
+        "getter-return": "warn",
+        "no-compare-neg-zero": "error",
+        "no-cond-assign": "error",
+        "no-dupe-args": "warn",
+        "no-console": "off",
+        "no-extra-parens": "warn",
+        "init-declarations": "warn",
+        "no-shadow": "off",
+        "no-use-before-define": "error",
+        "callback-return": "off",
+        "no-path-concat": "error",
+        "array-bracket-newline": "warn",
+        "array-bracket-spacing": "warn",
+        "array-element-newline": "off",
+        "camelcase": "error",
+        "comma-dangle": "error",
+        "computed-property-spacing": "error",
+        "eol-last": "error",
+        "func-call-spacing": "error",
+        "indent": ["error",4],
+        "eqeqeq": "warn",
+        "jsx-quotes": "error",
+        "no-unused-vars": [2, {"vars": "all", "args": "after-used"}],
+        "semi": "error",
+        "no-alert": "error",
+        "key-spacing": "error",
+        "semi-spacing": [2,  { "before": false,"after": false }],
+        "keyword-spacing": "error",
+        "lines-between-class-members": "off",
+        "new-cap": "error",
+        "no-multi-assign": "off",
+        "arrow-parens": "error",
+        "arrow-spacing": ["error",{ "before": true, "after": true }],
+        "use-isnan": "error",
+        "generator-star-spacing": "error",
+        "no-var": "error",
+        "prefer-destructuring": "error",
+        "prefer-template": "warn",
+        "sort-imports": "error"
     }
+
 }

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd219ac-b091-4707-8a0f-defb700d85ff" name="Default Changelist" comment="master-&gt;构建主分支和主架构-&gt;panjiajie">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/babel" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/babel-external-helpers" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/eslint" afterDir="false" />
@@ -19130,9 +19129,9 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yallist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yargs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19150,7 +19149,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="fea_1_16" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19168,10 +19167,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -19186,7 +19192,7 @@
       <workItem from="1610780768699" duration="8750000" />
       <workItem from="1610862406882" duration="261000" />
       <workItem from="1610879444873" duration="1657000" />
-      <workItem from="1610936020363" duration="8999000" />
+      <workItem from="1610936020363" duration="12809000" />
     </task>
     <task id="LOCAL-00001" summary="master-&gt;构建主分支和主架构-&gt;panjiajie">
       <created>1610790111448</created>
@@ -19202,7 +19208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610941385539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master-&gt;新增eslint-&gt;panjiajie">
+      <created>1611054486189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611054486189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -19210,35 +19223,48 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="master-&gt;构建主分支和主架构-&gt;panjiajie" />
     <MESSAGE value="master-&gt;新增babel-&gt;panjiajie" />
-    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;新增babel-&gt;panjiajie" />
+    <MESSAGE value="master-&gt;构建主分支和主架构-&gt;panjiajie" />
+    <MESSAGE value="master-&gt;新增eslint-&gt;panjiajie" />
+    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;新增eslint-&gt;panjiajie" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1610941344428">
+    <state x="468" y="181" key="#ESLint" timestamp="1611057719637">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610941344428" />
-    <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1610970120484">
+    <state x="468" y="181" key="#ESLint/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057719637" />
+    <state x="451" y="267" key="#Notifications" timestamp="1611057973859">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610970120484" />
-    <state width="1419" height="214" key="GridCell.Tab.0.center" timestamp="1610970120482">
+    <state x="451" y="267" key="#Notifications/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057973859" />
+    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1611054448707">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610970120482" />
-    <state width="1419" height="214" key="GridCell.Tab.0.left" timestamp="1610970120482">
+    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611054448707" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1611057754412">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610970120482" />
-    <state width="1419" height="214" key="GridCell.Tab.0.right" timestamp="1610970120483">
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057754412" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center" timestamp="1611057754411">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610970120483" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1610791726799">
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057754411" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left" timestamp="1611057754410">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1610791726799" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057754410" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right" timestamp="1611057754411">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057754411" />
+    <state x="229" y="75" key="SettingsEditor" timestamp="1611057996087">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057996087" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1611054538319">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611054538319" />
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1610783839227">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
