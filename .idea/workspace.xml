@@ -19131,7 +19131,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19192,7 +19191,7 @@
       <workItem from="1610780768699" duration="8750000" />
       <workItem from="1610862406882" duration="261000" />
       <workItem from="1610879444873" duration="1657000" />
-      <workItem from="1610936020363" duration="12809000" />
+      <workItem from="1610936020363" duration="13041000" />
     </task>
     <task id="LOCAL-00001" summary="master-&gt;构建主分支和主架构-&gt;panjiajie">
       <created>1610790111448</created>
@@ -19226,7 +19225,8 @@
     <MESSAGE value="master-&gt;新增babel-&gt;panjiajie" />
     <MESSAGE value="master-&gt;构建主分支和主架构-&gt;panjiajie" />
     <MESSAGE value="master-&gt;新增eslint-&gt;panjiajie" />
-    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;新增eslint-&gt;panjiajie" />
+    <MESSAGE value="master-&gt;修改eslint文件-&gt;panjiajie" />
+    <option name="LAST_COMMIT_MESSAGE" value="master-&gt;修改eslint文件-&gt;panjiajie" />
   </component>
   <component name="WindowStateProjectService">
     <state x="468" y="181" key="#ESLint" timestamp="1611057719637">
@@ -19237,10 +19237,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="451" y="267" key="#Notifications/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611057973859" />
-    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1611054448707">
+    <state x="190" y="23" key="CommitChangelistDialog2" timestamp="1611058340517">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611054448707" />
+    <state x="190" y="23" key="CommitChangelistDialog2/0.23.1440.827/1440.23.2560.1417@0.23.1440.827" timestamp="1611058340517" />
     <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1611057754412">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
